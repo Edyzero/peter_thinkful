@@ -52,16 +52,18 @@ nav{
 
 .image-circle {
   border-radius: 50%;
+  border:2px solid #003049
+  
 }
 
 h1{
   text-align:center;
 }
 nav:link{
-  color:red;
+  color:#d62828;
 }
-nav:visterd{
-  color:red;
+nav:active{
+  color:#f77f00;
 }
 ol{
   text-align:center;
