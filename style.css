@@ -38,6 +38,7 @@ img {
   width: 100%;
   max-width: 200px;
   height: auto;
+  margin: auto;
 }
 
 hr {
@@ -45,9 +46,10 @@ hr {
 }
 
 /* Add your solution below */
-nav{
-  text-align:center;
-  font-size:20px;
+nav {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 20px;
 }
 
 .image-circle {
@@ -64,6 +66,8 @@ nav:link{
 nav:active{
   color:#f77f00;
 }
-ol{
-  text-align:center;
+ol {
+  display: flex;
+  align-items: center;
+  text-align: center;
 }
