@@ -81,7 +81,7 @@ li {
   align-items: center;
   text-align: center;
 }
-footer {
+footer > p {
   margin: auto;
   width: 600px;
   display: flex;
