@@ -71,6 +71,7 @@ ol {
   align-items: center;
   text-align: center;
   list-style-type: disc;
+  list-style-style: inside;
 }
 ul {
   display: flex;
