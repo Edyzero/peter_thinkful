@@ -82,8 +82,6 @@ li {
   text-align: center;
 }
 footer > p {
-  margin: auto;
-  width: 600px;
   display: flex;
   align-items: center;
   text-align: center;
