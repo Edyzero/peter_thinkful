@@ -74,6 +74,10 @@ ul {
 ol {
   display: flex;
   align-items: center;
-  text-align: flex;
-  gap: 10px;
+  text-align: center;
+}
+li {
+  display: flex;
+  align-items: center;
+  text-align: center;
 }
