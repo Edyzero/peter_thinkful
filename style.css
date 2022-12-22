@@ -71,10 +71,4 @@ ol {
   align-items: center;
   text-align: center;
   list-style-type: none;
-  list-style-style: inside;
-}
-ul {
-  display: flex;
-  align-items: center;
-  text-align: center;
 }
