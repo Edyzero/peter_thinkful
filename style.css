@@ -67,17 +67,18 @@ nav:active{
   color:#f77f00;
 }
 ul {
-
+  list-style-type: none;
   align-items: center;
   text-align: center;
 }
 ol {
+  list-style-type: none;
   margin: 0px;
   align-items: center;
   text-align: center;
 }
 article > li {
-
+  list-style-type: none;
   align-items: center;
   text-align: center;
 }
