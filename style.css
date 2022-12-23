@@ -68,8 +68,8 @@ nav:active{
 }
 ul {
   list-style-type: none;
-  align-items: center;
-  text-align: center;
+  align-items: start;
+  text-align: start;
 }
 ol {
   list-style-type: none;
