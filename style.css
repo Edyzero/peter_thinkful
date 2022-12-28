@@ -67,12 +67,10 @@ nav:active{
   color:#f77f00;
 }
 ul {
-  list-style-type: none;
   align-items: start;
   text-align: start;
 }
 ol {
-  list-style-type: none;
   align-items: start;
   text-align: start;
 }
