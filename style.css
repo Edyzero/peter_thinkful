@@ -74,12 +74,3 @@ ol {
   align-items: start;
   text-align: start;
 }
-article > li {
-  align-items: center;
-  text-align: center;
-}
-footer > p {
-  display: flex;
-  align-items: center;
-  text-align: center;
-}
