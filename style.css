@@ -68,6 +68,12 @@ nav:link{
 nav:active{
   color:#f77f00;
 }
+article{
+  align-items: left;
+  test-align: left;
+  padding: 40px;
+  margin: 0;
+}
 ul {
   align-items: center;
   text-align: center;
@@ -82,9 +88,4 @@ footer {
   padding: 40px;
   margin: 0;
 }
-article{
-  align-items: left;
-  test-align: left;
-  padding: 40px;
-  margin: 0;
-}
+
