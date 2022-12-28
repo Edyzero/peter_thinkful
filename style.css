@@ -75,7 +75,6 @@ ol {
   text-align: start;
 }
 article > li {
-  list-style-type: none;
   align-items: center;
   text-align: center;
 }
