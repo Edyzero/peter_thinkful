@@ -79,4 +79,6 @@ ol {
 footer {
   align-items: center;
   test-align: center;
+  padding: 40px;
+  margin: 0;
 }
